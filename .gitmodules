@@ -1,0 +1,3 @@
+[submodule "submodule_test_library"]
+	path = submodule_test_library
+	url = https://github.com/falc8000/submodule_test_library.git
